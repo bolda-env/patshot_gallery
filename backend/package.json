@@ -1,0 +1,19 @@
+{
+  "name": "pat_shot",
+  "version": "1.0.0",
+  "description": "patShot is a picture paradise whereby user can upload their amazing, fantabulos images.",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Picture",
+    "Image",
+    "Gallery",
+    "Shot",
+    "patshot."
+  ],
+  "author": "Abel Emmanuel",
+  "license": "ISC"
+}
